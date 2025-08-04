@@ -7,7 +7,7 @@
 ## 🖼️ App Screenshot
 
 <p align="center">
-  <img src="app_screenshot.png" alt="App Screenshot" width="600"/>
+  <img src="resources/IntelliRetrieve Research Tool.png" alt="App Screenshot" width="600"/>
 </p>
 
 ---
