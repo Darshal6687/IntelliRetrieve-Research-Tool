@@ -4,6 +4,14 @@
 
 ---
 
+## 🖼️ App Screenshot
+
+<p align="center">
+  <img src="app_screenshot.png" alt="App Screenshot" width="600"/>
+</p>
+
+---
+
 ## 📦 Features
 
 - ✅ Scrape and process up to 3 custom URLs
